@@ -19,7 +19,7 @@ To start using Xylophone, follow these simple steps:
 2. **Clone Repository:** Clone the Xylophone repository to your local machine using Git:
 
     ```
-    git clone https://github.com/Abhimanyupal/xylophone.git
+    git clone https://github.com/Abhimanyupal/Flutter_xylophone.git
     ```
 
 3. **Run the Application:** Navigate to the project directory and run the application using Flutter:
